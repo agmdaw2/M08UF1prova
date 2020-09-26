@@ -4,6 +4,7 @@ public class Hola {
         String hi = "YEEEp!!!";
         String hi2 = "ASereje ja deje";
         String bye1 = "asdadsa";
+        int a = 1;
         System.out.println(hi);
         
     }
